@@ -1,0 +1,171 @@
+{
+  "default": {
+    "voiceInfo": {
+      "emotion": "good",
+      "lang": "ru-RU",
+      "speaker": "alena"
+    },
+    "phrases": {
+      "greeting": [
+        {
+          "text": "Вы позвонили в Почту. Чем я могу вам помочь?"
+        }
+      ],
+      "track_parcel": [
+        {
+          "text": "К сожалению, функция отслеживания посылки ещё не реализована"
+        }
+      ],
+      "missed_delivery": [
+        {
+          "text": "К сожалению, функция перезаписи доставки посылки ещё не реализована"
+        }
+      ],
+      "where_is_point": [
+        {
+          "text": "К сожалению, эта функция не реализована"
+        }
+      ],
+      "return_shipment": [
+        {
+          "text": "К сожалению, функция отмены доставки ещё не реализована"
+        }
+      ],
+      "i_will_call_back": [
+        {
+          "text": "Okay, I'll call you later. Bye!"
+        }
+      ],
+      "hello": {
+        "random": [
+          [
+            {
+              "text": "Алло"
+            }
+          ],
+          [
+            {
+              "text": "Ало?"
+            }
+          ],
+          [
+            {
+              "text": "Вы меня слышите?"
+            }
+          ]
+        ]
+      },
+      "when_callback": [
+        {
+          "text": "Когда я могу вам перезвонить?"
+        }
+      ],
+      "i_said": [
+        {
+          "text": "Я говорю"
+        }
+      ],
+      "sorry_wont_call": [
+        {
+          "text": "Извините за беспокойство, всего доброго, до свидания"
+        }
+      ],
+      "i_will_wait": {
+        "random": [
+          [
+            {
+              "text": "Хорошо, я жду"
+            }
+          ],
+          [
+            {
+              "text": "Конечно, я подожду"
+            }
+          ],
+          [
+            {
+              "text": "Хорошо, жду"
+            }
+          ]
+        ]
+      },
+      "i_can_hear_you": [
+        {
+          "text": "Да. Я вас слышу."
+        }
+      ],
+      "dont_understand": {
+        "random": [
+          [
+            {
+              "text": "Извините, можете повторить?"
+            }
+          ],
+          [
+            {
+              "text": "Извините, что то со связью, можете повторить?"
+            }
+          ],
+          [
+            {
+              "text": "Извините, не расслышала"
+            }
+          ],
+          [
+            {
+              "text": "Повторите пожалуйста?"
+            }
+          ]
+        ]
+      },
+      "dont_understand_hangup": [
+        {
+          "text": "Что то со связью, плохо вас слышно. Я перезвоню вам позже, до свидания!"
+        }
+      ],
+      "dont_understand_forward": [
+        {
+          "text": "ы знаете, я вас очень плохо слышу. Я сейчас переключу вас на другого оператора"
+        }
+      ],
+      "mhm": [
+        {
+          "text": "Ага..."
+        }
+      ],
+      "yes_i_am_a_robot": [
+        {
+          "text": "Да, я робот. Надеюсь это не повлияет на наш дальнейший диалог"
+        }
+      ],
+      "is_that_all": [
+        {
+          "text": "Это всё?"
+        }
+      ]
+    },
+    "types": {},
+    "macros": {
+      "track_parcel": {},
+      "missed_delivery": {},
+      "where_is_point": {},
+      "return_shipment": {},
+      "i_will_call_back": {},
+      "hello": {},
+      "when_callback": {},
+      "i_said": {},
+      "sorry_wont_call": {},
+      "i_will_wait": {},
+      "i_can_hear_you": {},
+      "dont_understand": {},
+      "dont_understand_hangup": {},
+      "dont_understand_forward": {},
+      "mhm": {},
+      "yes_i_am_a_robot": {},
+      "is_that_all": {},
+      "greeting": {},
+      "will_help": {},
+      "how_much": {}
+    }
+  }
+}

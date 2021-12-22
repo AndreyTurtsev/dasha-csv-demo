@@ -1,0 +1,32 @@
+{
+  "node::track_parcel": {
+    "common.position": {
+      "x": 600,
+      "y": 23
+    }
+  },
+  "node::missed_delivery": {
+    "common.position": {
+      "x": 600,
+      "y": 169
+    }
+  },
+  "node::where_is_point": {
+    "common.position": {
+      "x": 600,
+      "y": 315
+    }
+  },
+  "node::return_shipment": {
+    "common.position": {
+      "x": 600,
+      "y": 461
+    }
+  },
+  "node::root": {
+    "common.position": {
+      "x": 0,
+      "y": 226.9605891490708
+    }
+  }
+}
